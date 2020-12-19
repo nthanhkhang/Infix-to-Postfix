@@ -1,2 +1,2 @@
-# Infix-to-Postfix
+# Infix-To-Postfix
 Convert from Infix to Postfix
